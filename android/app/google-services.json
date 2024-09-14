@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667720784143",
+    "project_id": "azodha-8fc00",
+    "storage_bucket": "azodha-8fc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667720784143:android:f563ed680509a0bce6467a",
+        "android_client_info": {
+          "package_name": "com.example.azodha_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllEQKRK50oD310Khd8yZzW-ZzUQtZMPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
